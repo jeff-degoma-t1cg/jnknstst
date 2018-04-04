@@ -1,3 +1,3 @@
 # jnknstst
 
-mic check 1,2..1,2
+tst 1,2,3
